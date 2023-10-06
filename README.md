@@ -24,5 +24,11 @@ To ensure smooth execution of the code, follow the steps below:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/moha6998/ML_Health/
-   cd assignments 
-
+   cd assignments
+   ```
+2. **Use/Install packages mentioned in requirements.txt**
+   Note:
+   The assignment was done on Google Colab, with command !pip install lifelines as an additional library install
+   The rest of the libraries were already available in colab by default.
+3. **Use Right Dataset Name**
+   In this git there is a csv file containing the hypotension patient information. Please ensure to use the right name in case you run your own file or on a local system.
