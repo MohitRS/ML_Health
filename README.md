@@ -1,12 +1,13 @@
-# ML_Health
+# COMP90089: Machine Learning Applications for Health
 Assignment 2 
 
 # Profound Hypotension Analysis - ICU Patients
 
-### Author: Mohit Rudraraju Suresh
+### Author: Mohit Rudraraju Suresh 
+### 1390758
 
 ## Assignment Details:
-This repository contains the code, datasets, and outputs for the "Profound Hypotension Analysis - ICU Patients" assignment. The primary objective of this project is to analyze the clinical data of ICU patients experiencing profound hypotension and derive insights regarding patient outcomes, demographics, and associated comorbidities.
+This repository contains the code, datasets, and outputs for the "Profound Hypotension Analysis - ICU Patients" - assignment 2. The primary objective of this project is to analyze the clinical data of ICU patients experiencing profound hypotension and derive insights regarding patient outcomes, demographics, and associated comorbidities.
 
 ## Problem Description:
 Profound hypotension can be a critical condition for patients in the ICU. This project aims to:
@@ -22,6 +23,6 @@ To ensure smooth execution of the code, follow the steps below:
 
 1. **Clone the Repository:**
    ```bash
-   git clone
-   cd assignments
+   git clone https://github.com/moha6998/ML_Health/
+   cd assignments 
 
