@@ -23,7 +23,7 @@ To ensure smooth execution of the code, follow the steps below:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/moha6998/ML_Health/
+   git clone https://github.com/MohitRS/ML_Health/
    cd assignments
    ```
 2. **Use/Install packages mentioned in requirements.txt**
